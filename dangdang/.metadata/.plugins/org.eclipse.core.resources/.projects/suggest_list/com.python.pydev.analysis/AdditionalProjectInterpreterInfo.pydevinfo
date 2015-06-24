@@ -1,0 +1,52 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/dongxiaobing/git/selenium/dangdang/.metadata/.plugins/org.eclipse.core.resources/.projects/suggest_list/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+BasePage|0|/Users/dongxiaobing/git/selenium/dangdang/suggest_list/BasePage.py
+test_dangdang_searchPageObject|0|/Users/dongxiaobing/git/selenium/dangdang/suggest_list/test_dangdang_searchPageObject.py
+a|0|/Users/dongxiaobing/git/selenium/dangdang/suggest_list/a.py
+HomePage|0|/Users/dongxiaobing/git/selenium/dangdang/suggest_list/HomePage.py
+-- END DISKCACHE
+-- START DICTIONARY
+5
+1=BasePage
+3=test_dangdang_searchPageObject
+2=HomePage
+4=TestLoginPageObject.setUp
+5=TestLoginPageObject
+-- END DICTIONARY
+-- START TREE 1
+10
+_op|1|_open!10@
+bas|1|BasePage!9@
+fin|2|find_elements!10@find_element!10@
+hom|1|HomePage!17@
+on_|1|on_page!10@
+ope|1|open!10@
+scr|1|script!10@
+sel|1|self!11@
+sen|1|send_keys!10@
+tes|1|TestLoginPageObject!25@
+-- END TREE
+-- START TREE 2
+19
+__i|1|__init__!1&10@
+acc|1|accept_next_alert!4&27@
+con|1|configparse!5&26@
+dri|1|driver!4&27@
+fin|1|find_suggest_list!2&18@
+get|1|get_suggest_list!5&26@
+key|1|key_loc!2&19@
+log|1|login_url!1&11@
+ope|1|open!2&18@
+pas|1|password_loc!2&19@
+set|1|setUp!5&26@
+sub|2|submit!2&18@submit_loc!2&19@
+sug|1|suggest_loc!2&19@
+tea|1|tearDown!5&26@
+tes|3|test_pub2!5&26@test_special_character!5&26@test_pub1!5&26@
+typ|3|type_password!2&18@type_username!2&18@type_search_key!2&18@
+url|1|url!2&19@
+use|1|username_loc!2&19@
+ver|1|verificationErrors!4&27@
+-- END TREE

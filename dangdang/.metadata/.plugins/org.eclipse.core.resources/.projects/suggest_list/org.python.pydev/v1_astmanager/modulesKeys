@@ -1,0 +1,5 @@
+MODULES_MANAGER_V2
+BasePage|/Users/dongxiaobing/git/selenium/dangdang/suggest_list/BasePage.py
+HomePage|/Users/dongxiaobing/git/selenium/dangdang/suggest_list/HomePage.py
+a|/Users/dongxiaobing/git/selenium/dangdang/suggest_list/a.py
+test_dangdang_searchPageObject|/Users/dongxiaobing/git/selenium/dangdang/suggest_list/test_dangdang_searchPageObject.py
